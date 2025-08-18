@@ -8,6 +8,11 @@ Value → Enter a password of at least 8 characters (letters, numbers, and symbo
 
 4️⃣ Wait for the page to automatically return to → Click "Add"** to add additional variables.
 
+![photo_2025-08-18 15 49 50](https://github.com/user-attachments/assets/c9b67d6d-bffc-4e0c-a9af-4d5706bab849)
+
+![photo_2025-08-18 15 49 53](https://github.com/user-attachments/assets/fc8086a5-67b4-4c86-87d5-616c49fbbf7f)
+
+
 Security Recommendations:
 
 - It is recommended to use a mixture of uppercase and lowercase letters, numbers, and symbols for the password (e.g., Arista@2024).
