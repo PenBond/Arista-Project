@@ -15,6 +15,3 @@ Security Recommendations:
 
 (Based on the latest Cloudflare UI optimization guidelines, key fields and password complexity requirements are emphasized.)
 ---------------------------------------
-Settings > Variables and Secrets
-Path: Settings > Variables and Secrets
-------------------------------------
